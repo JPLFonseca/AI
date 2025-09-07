@@ -2,18 +2,17 @@
 
 This repository contains the project for a course on **Artificial Intelligence for Autonomous Systems**. The project explores and implements concepts related to artificial intelligence and software engineering to create an autonomous agent.
 
-The report details the theoretical foundations and practical implementation of an autonomous agent designed to perceive its environment, process perceptions, and execute actions accordingly. The project leverages various programming constructs and design patterns to manage complexity and ensure a systematic, quantifiable approach to software development.
 
 ---
 
 ### Key Topics Covered
 
-The report and the project's implementation delve into the following areas:
+The project's implementation delve into the following areas:
 
-* **Intelligent Agents**: The report explores various agent architectures, including reactive and deliberative agents.
+* **Intelligent Agents**: Exploration of various agent architectures, including reactive and deliberative agents.
 * **Reactive Agent Architecture**: This section discusses agents that behave based on stimulus-response relationships without explicit internal state representations. The architecture is defined by a perception-reaction-action cycle.
 * **Deliberative Agent Architecture**: This architecture focuses on agents that use memory to preserve past situations and consider future outcomes to make decisions. This architecture introduces practical reasoning for goal-oriented planning.
-* **Automatic Reasoning and Decision-Making**: The report describes how state-space search can be used to solve planning problems. It discusses various search algorithms, including depth-first, breadth-first, uniform-cost, and A\* search.
+* **Automatic Reasoning and Decision-Making**: How state-space search can be used to solve planning problems. It discusses various search algorithms, including depth-first, breadth-first, uniform-cost, and A\* search.
 * **Reinforcement Learning**: This section explains an approach where an agent learns through interaction with its environment, receiving feedback in the form of rewards and penalties to improve its choices over time. The report mentions algorithms like SARSA and Q-Learning.
 
 ---
