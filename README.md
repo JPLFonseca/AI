@@ -1,6 +1,6 @@
 ### AI for Autonomous Systems
 
-This repository contains a final report for a course on **Artificial Intelligence for Autonomous Systems**. The project explores and implements concepts related to artificial intelligence and software engineering to create an autonomous agent.
+This repository contains the project for a course on **Artificial Intelligence for Autonomous Systems**. The project explores and implements concepts related to artificial intelligence and software engineering to create an autonomous agent.
 
 The report details the theoretical foundations and practical implementation of an autonomous agent designed to perceive its environment, process perceptions, and execute actions accordingly. The project leverages various programming constructs and design patterns to manage complexity and ensure a systematic, quantifiable approach to software development.
 
